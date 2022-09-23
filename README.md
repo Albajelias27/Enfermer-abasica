@@ -1,2 +1,0 @@
-# Enfermer-abasica
-Enfermedades
